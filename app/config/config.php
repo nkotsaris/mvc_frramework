@@ -5,9 +5,9 @@
 
   //DB Params 
   define('DB_HOST', 'localhost');
-  define('DB_USER', 'root');
-  define('DB_PASS', 'root');
-  define('DB_NAME', 'mfwork');
+  define('DB_USER', 'dbuser');
+  define('DB_PASS', 'dbpass');
+  define('DB_NAME', 'dbname');
   //app root
   define($appRoot, dirname( dirname(__FILE__) ) );
 
